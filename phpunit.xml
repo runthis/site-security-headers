@@ -1,6 +1,6 @@
 <phpunit bootstrap="bootstrap.php">
     <testsuites>
-        <testsuite name="SiteSecurityHeaders">
+        <testsuite name="Site Security Header Testing">
             <directory suffix="Test.php">./Tests/</directory>
         </testsuite>
     </testsuites>
