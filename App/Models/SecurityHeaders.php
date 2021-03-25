@@ -2,8 +2,6 @@
 
 namespace SiteSecurityHeaders\Models;
 
-ini_set('display_errors', 'On');
-
 /**
  * Handle the logic of getting and processing the headers for the controller
  * @author Robert Miller
