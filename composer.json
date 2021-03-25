@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "require-dev": {
+        "vimeo/php-mysql-engine": "^0.5.2"
+    }
+}

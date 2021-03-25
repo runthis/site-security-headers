@@ -1,0 +1,7 @@
+<phpunit bootstrap="bootstrap.php">
+    <testsuites>
+        <testsuite name="WP Unit Testing">
+            <directory suffix="Test.php">./Tests/</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
