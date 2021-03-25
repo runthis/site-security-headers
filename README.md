@@ -19,5 +19,5 @@ This is a WordPress plugin that checks your WordPress website for common headers
 | content-security-policy    | Minimum of: `default-src 'none'` |
 | x-frame-options            | `deny` `sameorigin` `allow-from` |
 | x-content-type-options     | `nosniff` |
-|`x-xss-protection           | `0` `1` (informs you that it is deprecated and recommends CSP) |
+| x-xss-protection           | `0` `1` (informs you that it is deprecated and recommends CSP) |
 
